@@ -1,2 +1,2 @@
-# Example
-An example greeter plugin
+Read Me:
+Shift rightclick items in your bank to assign them to desired sell quantities to High-alch shop, this will calculate the total gp it calculates the percent changes and shows the total value as "Shop:" at the top of the bank to show the gp you can get selling those items at those quantities, if you now go to a shop with those items the left click will now corrospond to the quantity of your calculation, For example if you chose runeplate legs to sell 10, your left click in shops for rune platelegs is now 10.
