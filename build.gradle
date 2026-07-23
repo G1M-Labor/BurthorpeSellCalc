@@ -14,7 +14,7 @@ repositories {
 }
 
 def runeLiteVersion = 'latest.release'
-def pluginMainClass = 'com.BurthorpeSellCalc.BurthorpeCalcPluginTest'
+def pluginMainClass = 'com.burthorpesellcalc.burthorpecalcplugintest'
 
 dependencies {
 	compileOnly group: 'net.runelite', name:'client', version: runeLiteVersion
